@@ -1,0 +1,5 @@
+18 11월 2011 11:26:28,876 INFO  ~ Starting /Users/Rex/Documents/workspace/rex_github/yabeTest
+18 11월 2011 11:26:29,516 WARN  ~ You're running Play! in DEV mode
+18 11월 2011 11:26:29,636 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+18 11월 2011 11:26:49,346 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+18 11월 2011 11:26:50,310 INFO  ~ Application 'yabeTest' is now started !
